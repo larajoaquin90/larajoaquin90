@@ -6,7 +6,13 @@
 ***
 
 **SKILLS:**
-**
+<img src="assets/html5.png" />
+<img src="assets/css3.png" />
+<img src="assets/js.png" />
+<img src="assets/python.png" />
+<img src="assets/vue.png" />
+
+***
 
 
 
