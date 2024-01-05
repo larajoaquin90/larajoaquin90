@@ -6,11 +6,9 @@
 ***
 
 **SKILLS:**
-<img src="assets/html5.png" />
-<img src="assets/css3.png" />
-<img src="assets/js.png" />
-<img src="assets/python.png" />
-<img src="assets/vue.png" />
+
+<img src="assets/html5.png" style="width:100px; height:100px; margin-right: 10px;" /> <img src="assets/css3.png" style="width:100px; height:100px; margin-right: 10px;" /> <img src="assets/js.png" style="width:85px; height:85px; margin-right: 10px;" /> <img src="assets/python.png" style="width:85px; height:85px; margin-right: 100px;" /> <img src="assets/vue.png" style="width:85px; height:85px; margin-right: 10px;" />
+
 
 ***
 
