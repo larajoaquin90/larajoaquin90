@@ -7,7 +7,7 @@
 
 **SKILLS:**
 
-<a><img src="assets/html5.png" style="width:100px; height:100px; margin-right: 10px;"/></a><img src="assets/css3.png" style="width:100px; height:100px; margin-right: 10px;" />&nbsp;&nbsp;<img src="assets/js.png" style="width:85px; height:85px; margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/python.png" style="width:85px; height:85px; margin-right: 100px;" />&nbsp;&nbsp;<img src="assets/vue.png" style="width:85px; height:85px; margin-right: 10px;" />
+<a><img src="assets/html5.png" style="width:100px; height:100px; margin-right: 0px;"/></a><img src="assets/css3.png" style="width:100px; height:100px; margin-right: 10px;" />&nbsp;&nbsp;<img src="assets/js.png" style="width:85px; height:85px; margin-right: 10px;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/python.png" style="width:85px; height:85px; margin-right: 100px;" />&nbsp;&nbsp;<img src="assets/vue.png" style="width:85px; height:85px; margin-right: 10px;" />
 
 
 ***
